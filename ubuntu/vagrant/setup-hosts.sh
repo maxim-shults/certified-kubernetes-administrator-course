@@ -15,4 +15,5 @@ cat >> /etc/hosts <<EOF
 ${NETWORK}.11  kubemaster
 ${NETWORK}.21  kubenode01
 ${NETWORK}.22  kubenode02
+${NETWORK}.23  kubenode03
 EOF
